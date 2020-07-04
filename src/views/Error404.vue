@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>无此页面</h1>
+    <h1>没有页面</h1>
     <p @click="$router.go(-1)">跳转到上一页</p>
   </div>
 </template>
@@ -9,5 +9,4 @@
 export default {};
 </script>
 
-<style lang="less" scoped>
-</style>
+<style lang="less" scoped></style>
