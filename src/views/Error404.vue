@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>晚上修改404</h1>
+    <h1>无此页面</h1>
 
     <p @click="$router.go(-1)">跳转到上一页</p>
   </div>
