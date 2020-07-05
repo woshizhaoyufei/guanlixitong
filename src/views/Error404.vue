@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>页面</h1>
+    <h1>冲突404页面</h1>
     <p @click="$router.go(-1)">跳转到上一页</p>
   </div>
 </template>
